@@ -1,0 +1,26 @@
+右侧新闻栏中的文字：
+Title for a Blue Text Box
+
+A handy right-side text box for news, updates or maybe a profile. The choices are practically limitless for this blue box!
+
+Palatinas videt aequos aras remque Romanam Latiumque felix alterum in lustrum meliusque semper prorogat aevom, quaeque Aventinum tenet. Algidumque, quindecim Diana preces virorum curat et votis puerorum amicas adplicat auris. 
+
+左侧主体内容文字：
+
+When It Comes To Layout, This One Is Pure Vanilla
+
+Nothing fancy, just a simple layout with more of a corporate feel to it for that crisp, clean look. Header image can be easily swapped out for a more customized theme.
+Web Geek Information
+
+Prozac Afternoon was tested in Windows with Firefox1.0.7, IE6.0, Netscape7.2 and Opera7.54 with valid css and xhtml 1.0-strict.
+
+As is, download time for 56k is 5.27 seconds;
+
+ISDN 128K at 1.75 seconds; T1 at .33 seconds.All images amount to just a touch over 17KB.
+Now for Some Dead Language Text
+
+Augur et fulgente decorus arcu Phoebus acceptusque novem Camenis, qui salutari levat arte fessos corporis artus, si Palatinas videt aequos aras remque Romanam Latiumque felix alterum in lustrum meliusque semper prorogat aevom, quaeque Aventinum tenet Algidumque, quindecim Diana preces virorum curat et votis puerorum amicas adplicat auris.
+
+Quaeque vos bubus veneratur albis clarus Anchisae Venerisque sanguis inpetret, bellante prior, iacentem lenis in hostem. iam mari terraque manus potentis Medus Albanasque timet securis, iam Scythae responsa petunt, superbi nuper, et Indi. Iam Fides et Pax et Honor Pudorque priscus et neglecta redire Virtus audet adparetque beata pleno Copia cornu.
+
+Quaeque vos bubus veneratur albis clarus Anchisae Venerisque sanguis inpetret, bellante prior, iacentem lenis in hostem. iam mari terraque manus potentis Medus Albanasque timet securis, iam Scythae responsa petunt, superbi nuper, et Indi. Iam Fides et Pax et Honor Pudorque priscus et neglecta redire Virtus audet adparetque beata pleno Copia cornu.
